@@ -9,6 +9,3 @@
 
 <p>This workshop will help you build a Twitter bot with a purpose -- something topical, something oppositional. We'll talk about data sources, ethics, and the politics of tech. No programming experience necessary.</p>
 
-**Guides for Building Bots:**
-
-How to Bot
