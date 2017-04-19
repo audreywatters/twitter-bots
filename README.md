@@ -27,6 +27,7 @@ This workshop will show you how to build a bot using Google Spreadsheets.
 <ul>
 <li><a href="http://www.cheapbotsdonequick.com/">Cheap Bots Done Quick</a></li>
 <li><a href="https://ifttt.com/">IFTTT</a></li>
+</ul>
 
 ### Famous (Twitter) Bots
 
