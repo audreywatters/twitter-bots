@@ -42,3 +42,10 @@
 <li><a href="https://twitter.com/zachwhalen/lists/botspawn/members">Zach's Botspawn</a></li>
 </ul>
 
+### Some Tips
+
+<ul>
+<li>You can create a special email address for your Twitter bot (so that it doesn't conflict with the email address you already us) if you use Gmail. Simply append the plus symbol (+) and a term to your Gmail address. e.g. audreywatters+twitterbot@gmail.com. The account audreywatters@gmail.com will receive these emails as usual</li>
+<li>To develop an app on Twitter, you will need to add a phone number to your Twitter account. If you only have one phone number (and who on earth would want more than one), you can delete it from one Twitter account and add it to the new one you are creating to build a bot</li>
+<li>Twitter has a set of "<a href="https://support.twitter.com/articles/76915#">Automation rules</a>" if requires developers follow</li>
+</ul>
