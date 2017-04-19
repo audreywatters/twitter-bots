@@ -26,9 +26,9 @@
 <li><strong><a href="http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/">How to Make a Twitter Bot with Google Spreadsheets</a></strong></li>
 </ul>
 
-<p>This workshop will show you how to build a bot using Google Spreadsheets: <a href="http://bit.ly/botsheet">bit.ly/botsheet</a>. (Credit: <a href="http://www.zachwhalen.net/posts/teaching-with-bots-a-dpl-workshop/">Zach Whalen</a>)</p>
+<p>In this workshop we will walk through building a bot using Google Spreadsheets: <a href="http://bit.ly/botsheet">bit.ly/botsheet</a>. (Credit: <a href="http://www.zachwhalen.net/posts/teaching-with-bots-a-dpl-workshop/">Zach Whalen</a>)</p>
 
-### Tools for Twitter Bots
+### Other Tools for Twitter Bots
 
 <ul>
 <li><a href="http://www.cheapbotsdonequick.com/">Cheap Bots Done Quick</a></li>
