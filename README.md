@@ -8,7 +8,7 @@
 
 <p>This workshop will help you build a Twitter bot with a purpose -- something topical, something oppositional. We'll talk about data sources, ethics, and the politics of tech. No programming experience necessary.</p>
 
-## How to Build a Bot
+### How to Build a Bot
 
 <ul>
 <li><a href="http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions/">Five Steps To Build Your Own Random Non-Sequitur Twitter Bot</a></li>
@@ -22,7 +22,7 @@
 
 This workshop will show you how to build a bot using Google Spreadsheets.
 
-## Tools for Twitter Bots
+### Tools for Twitter Bots
 
 <ul>
 <li><a href="http://www.cheapbotsdonequick.com/">Cheap Bots Done Quick</a></li>
