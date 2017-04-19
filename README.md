@@ -26,7 +26,7 @@
 <li><strong><a href="http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/">How to Make a Twitter Bot with Google Spreadsheets</a></strong></li>
 </ul>
 
-<p>In this workshop we will walk through building a bot using Google Spreadsheets: SSBot v 0.4 <a href="http://bit.ly/botsheet">bit.ly/botsheet</a>. (Credit: <a href="http://www.zachwhalen.net/posts/teaching-with-bots-a-dpl-workshop/">Zach Whalen</a>)</p>
+<p>In this workshop we will walk through building a bot using Google Spreadsheets: You can copy the SSBot v 0.4 spreadsheet by clicking this link: <a href="http://bit.ly/botsheet">bit.ly/botsheet</a>. (Credit: <a href="http://www.zachwhalen.net/posts/teaching-with-bots-a-dpl-workshop/">Zach Whalen</a>)</p>
 
 ### Other Tools for Twitter Bots
 
