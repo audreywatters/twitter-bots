@@ -1,4 +1,4 @@
-## Bots of Conviction
+### Bots of Conviction
 
 <p>A Twitter Bot Workshop at University of Mary Washington's DTLT</p>
 
