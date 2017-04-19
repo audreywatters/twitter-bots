@@ -8,6 +8,10 @@
 
 <p>This workshop will help you build a Twitter bot with a purpose -- something topical, something oppositional. We'll talk about data sources, ethics, and the politics of tech. No programming experience necessary.</p>
 
+### The Ethics of Twitter Bots
+
+<p>In an era of "fake news" and misinformation easily disseminated by social media, what responsibilities do we have when creating Twitter bots?</p>
+
 ### How to Build a Bot
 
 <ul>
@@ -31,5 +35,7 @@ This workshop will show you how to build a bot using Google Spreadsheets.
 
 ### Famous (Twitter) Bots
 
-<p><a href="https://twitter.com/audreywatters/lists/bots">Audrey's Twitter list of bots</a></p>
+<ul>
+<li><a href="https://twitter.com/audreywatters/lists/bots">Audrey's Twitter list of bots</a></li>
+</ul>
 
