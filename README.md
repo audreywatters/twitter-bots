@@ -1,6 +1,6 @@
-### Bots of Conviction
+## Bots of Conviction
 
-<p>A Twitter Bot Workshop at University of Mary Washington's DTLT</p>
+<p>A Twitter Bot Workshop at University of Mary Washington's DTLT, April 19, 2017</p>
 
 **Description:**
 
@@ -8,7 +8,7 @@
 
 <p>This workshop will help you build a Twitter bot with a purpose -- something topical, something oppositional. We'll talk about data sources, ethics, and the politics of tech. No programming experience necessary.</p>
 
-## Famous (Twitter) Bots
+### Famous (Twitter) Bots
 
 <p><a href="https://twitter.com/audreywatters/lists/bots">Audrey's Twitter list of bots</a></p>
 
