@@ -10,7 +10,7 @@
 
 ### The Ethics of Twitter Bots
 
-<p>In an era of "fake news" and misinformation easily disseminated by social media, what responsibilities do we have when creating Twitter bots?</p>
+<p>In an era of "fake news" and <a href="https://www.buzzfeed.com/josephbernstein/from-utah-with-love?utm_term=.kbvQ9nRo#.gdgp710J">dis-</a> and <a href="http://nypost.com/2017/03/30/how-russian-bots-try-to-sucker-trump-on-twitter/">misinformation</a> easily disseminated by social media, what responsibilities do we have when creating Twitter bots?</p>
 
 ### How to Build a Bot
 
